@@ -1,0 +1,6 @@
+.context
+.venv
+.git
+__pycache__
+result
+tests

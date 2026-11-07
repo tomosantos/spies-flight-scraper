@@ -1,0 +1,7 @@
+.context/
+.venv/
+__pycache__/
+*.pyc
+*.tmp
+.claude/
+.pytest_cache/
